@@ -1,0 +1,34 @@
+#{
+    margin:0;
+    border:0;
+    box-sizing: border-box;
+}
+
+#container{
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly;
+    padding:10px 20px;
+    background-color:white;
+
+}
+#little{
+    margin-right:40px;
+}
+#home{
+   display:flex;
+   gap:40px;
+   padding: 10px 40px;
+}
+
+#fash{
+    background-image: url("https://www.free-css.com/assets/files/free-css-templates/preview/page296/little-fashion/assets/images/07.jpg");
+}
+
+
+
+
+    
+    
+    
+

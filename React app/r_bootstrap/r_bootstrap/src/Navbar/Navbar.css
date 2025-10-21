@@ -1,0 +1,10 @@
+#navscroll{
+display:flex;
+justify-content: space-between;
+}
+#nav{
+    background-color:lightcoral!important; 
+}
+#nav11{
+    align-items:end!important;
+}

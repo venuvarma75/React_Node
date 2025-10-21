@@ -1,0 +1,17 @@
+#re{
+   color:red
+}
+#cred{
+  color:grey
+}
+#exp{
+  color:blue;
+}
+#mainy{
+  display:flex;
+  justify-content: space space-between;
+  gap:30px;
+}
+#ret{
+  background-color: aliceblue;
+}

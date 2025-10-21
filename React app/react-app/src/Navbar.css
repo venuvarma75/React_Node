@@ -1,0 +1,97 @@
+ #navbar_Container{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#navbar_Container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#0f172a; /* dark background */
+    padding: 1rem 2rem;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  #navbar_Container h2 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  #navbar_Container > div:nth-of-type(1),
+  #navbar_Container > div:nth-of-type(2) {
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  #navbar_Container p,
+  #navbar_Container span {
+    margin: 0;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  #navbar_Container p:hover,
+  #navbar_Container span:hover {
+    color: #38bdf8; /* light blue hover effect */
+  }
+#p1{
+    text-align:center
+}
+#Frontend{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding:20px;
+  background-color: azure;
+}
+
+#Backend{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding:20px;
+  background-color: azure;
+}
+
+#Database{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding:20px;
+  background-color: azure;
+}
+#React{
+  background-color: #0f172a;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+
+}
+
+  
+
+#b1:hover,#b2:hover{
+  transition:0.4 ease-in-out;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 10px;
+
+}
+#b1{
+  background-color:blueviolet;
+  transition:0.4 ease-in-out;
+
+
+}
+#b2{
+  background-color: blue;
+  transition:0.4 ease-in-out;
+}
+
+
+
+
+

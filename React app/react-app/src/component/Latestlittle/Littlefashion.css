@@ -1,0 +1,42 @@
+
+
+#get{
+        font-size:30px;
+    text-align: center;
+} 
+#lit{
+    color: red;
+}
+#int{
+    color:red
+}
+#how{
+    color:grey;
+}
+#Cap{
+    color:grey;
+}
+#main{
+    display:flex;
+    gap:20px;
+}
+#de,#yu
+{
+    color:red;
+}
+
+#litt,#li,#ltt{
+    color:grey
+}
+#img11{
+    margin-left:120px;
+    gap:40px;
+}
+#int{
+    margin-left:50px;
+    gap:20px;
+}
+#des{
+    margin-left:60px;
+    gap:30px;
+}
