@@ -1,0 +1,22 @@
+.recipesContainer #allhandleContainer{
+    display:grid;
+    grid-template-columns: repeat(5,1fr);
+   gap:20px;
+   padding:20px;
+}
+
+#singlerecipe{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    padding:30px;
+    background-color: lightcoral;
+}
+
+#singlerecipe >#img{
+    width:50%;
+}
+
+#singlerecipe >#img >img{
+    width:50%;
+}
